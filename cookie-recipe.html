@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+<meta charset="utf-8">
+<title> Best Chocolate Chip Cookies </title>
+
+     <body>
+
+<h1>Best Chocolate Chip Cookies
+  <img src="http://lorempixel.com/400/200/" alt="An image of a cookie" /></h1>
+  </head>
+<p>     This recipe is from my dad and they are a favorite among friends and family.
+  The secret ingredient is the coconut! <em>Be warned</em>, these will fly off of the plate!        </p>
+<!-- Add in section about history of cookies? <h3> History of cookies </h3> <p>Most people don't know the complicated past of the cookie. FINISH -->
+    <h2>Ingredients</h2>
+
+    <ul>
+      <li> Butter</li>
+      <li> White sugar</li>
+      <li> Brown sugar
+      <li> Eggs
+      <li> Vanilla</li>
+      <li> Flour</li>
+      <li> Baking soda</li>
+      <li> Salt</li>
+      <li>  Chocolate chips</li>
+      <li> Oatmeal</li>
+      <li> Coconut</li>
+    </ul>
+
+   <h2>Directions</h2>
+
+       <ol>
+        <li>Preheat the oven to 325.</li>
+        <li>Beat the butter, sugar, eggs and vanilla together until creamy.</li>
+        <li>Mix together the flour, baking soda and salt in a separate bowl.</li>
+        <li>Add flour mixture to butter mixture slowly.</li>
+        <li>Stir in chocolate chips, oatmeal and coconut.</li>
+        <li>Bake for <strong>10 minutes</strong> or until golden brown.</li>
+       </ol>
+
+<p><a href="http://allrecipes.com">Click here</a> to check out my other great recipes.</p>
+
+</html>
+</body>
